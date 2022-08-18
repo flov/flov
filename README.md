@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a rewrite of [the Hitchlog](https://github.com/flov/hitchlog-nextjs).
 - 🌱 I’m currently learning document-oriented db approach using firebase, tailwind
 - ❤️‍🔥 neoVim is my editor of choice and I love developping with it.
