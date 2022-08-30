@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a rewrite of [the Hitchlog](https://github.com/flov/hitchlog-nextjs).
-- 🌱 I’m currently learning document-oriented db approach using firebase, tailwind
 - ❤️‍🔥 neoVim is my editor of choice and I love developping with it.
 - 👯 I’m looking to collaborate on open source projects
 - 🤝 I'm also looking for freelance projects.
