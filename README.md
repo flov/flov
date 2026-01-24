@@ -1,3 +1,4 @@
+- 🔭 I founded [Paradise Circus](https://github.com/flov/paradise-circus-workshops) app, a social network and workshop booking website for flow artists.
 - 🔭 I founded [the Hitchlog](https://github.com/flov/hitchlog-nextjs), a social network for hitchhikers.
 - ❤️‍🔥 neoVim is my editor of choice and I love developping in it.
 - 👨‍💻 Currently I work for Xing at New Work SE
