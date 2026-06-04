@@ -5,7 +5,7 @@
      decoding="async" 
      loading="lazy" />
      
-- 🔭 I built [The Phoenix Fire Convention Companion](https://apps.apple.com/nl/app/phoenix-fire-convention/id6760896561) iPhone and Android App, a companion app for the biggest fire convention in Europe.
+- 🔭 I built the [Phoenix Fire Convention](https://apps.apple.com/nl/app/phoenix-fire-convention/id6760896561) iPhone and Android App, a companion app for the biggest fire convention in Europe.
 - 🔭 I founded [Paradise Circus](https://github.com/flov/paradise-circus-workshops) app, a social network and workshop booking website for flow artists.
 - 🔭 I founded [the Hitchlog](https://github.com/flov/hitchlog-nextjs), a social network for hitchhikers.
 - ❤️‍🔥 neoVim is my editor of choice and I love developping in it.
